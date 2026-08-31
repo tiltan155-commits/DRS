@@ -1,0 +1,11 @@
+symbol: BTCUSDT
+interval: 1m
+use_testnet: true
+starting_balance: 10000.0
+target_pct: 0.05
+stop_pct: 0.02
+risk_per_trade: 0.01
+max_exposure_per_trade: 0.05
+max_trades_per_day: 10
+dry_run: true
+quote_asset: USDT
